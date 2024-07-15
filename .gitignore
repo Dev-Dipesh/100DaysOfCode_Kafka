@@ -1,2 +1,4 @@
 .DS_Store
 .env
+client.properties
+kafka_env
