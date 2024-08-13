@@ -1,6 +1,6 @@
 # PARTITIONS
 
-Partitions allow to divide a topic into smaller chungs and distribute it across different nodes. Its a simple way to have distributed system capabilities in your Kafka cluster.
+Partitions allow to divide a topic into smaller chunks and distribute it across different nodes. Its a simple way to have distributed system capabilities in your Kafka cluster.
 
 Events can be sent to different partitions in two ways:
 1. Round-Robin: In this case the events are sent to partitions in sequence as per their availability without retaining the order of the events.
